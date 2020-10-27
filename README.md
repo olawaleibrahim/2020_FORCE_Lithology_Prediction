@@ -1,6 +1,6 @@
-# 2020_FORCE_Lithology_Prediction
+# 2020 FORCE Machine Learning Contest 
 
-## 2020 FORCE Machine Learning Contest - Final Model Submission ##
+## Final Model Submission ##
 
 
 ####  Machine Predicted Lithology ####
