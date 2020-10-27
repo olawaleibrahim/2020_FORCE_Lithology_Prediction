@@ -5,3 +5,5 @@ This is my final submission file which have a score of -0.5118 and ranking 24th 
 Extensive validations were done using different sets wells which were randomly selected. 
 
 Several ensemble techniques were tried but the final model which was the best on local validationn and open test LB -- was a single 10 stratified kfold xgboost model. 
+
+FORCE_Submission_File.ipynb is the final notebook used in making predictions. Other notebooks were used earlier during the competitions for validations and trying out different techniques.
